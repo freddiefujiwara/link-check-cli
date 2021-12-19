@@ -7,7 +7,7 @@
     "link-check": "index.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.js https://github.com/freddiefujiwara/link-check-cli"
   },
   "repository": {
     "type": "git",
